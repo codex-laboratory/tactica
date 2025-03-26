@@ -1,2 +1,2 @@
 # Tactica
-Scuttlings of Oxidizer
+Our turn based AI crab
