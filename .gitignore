@@ -1,0 +1,95 @@
+# General
+*.log
+*.tmp
+*.swp
+*.bak
+*.DS_Store
+Thumbs.db
+
+# Rust Stuff
+*/target/
+*/Cargo.lock
+*.rs.bk
+**/*.dSYM
+
+# C++ Stuff
+*/build/
+*/*.o
+*/*.a
+*/*.so
+*/*.dll
+*/*.exe
+*/CMakeFiles/
+*/Makefile
+*/CMakeCache.txt
+*/compile_commands.json
+*/.pdb
+*/.ilk
+
+# IDEs and Editors
+/.vscode/
+/.idea/
+/.clion/
+/.vim/
+*.iml
+# Visual Studio
+/.vs/
+/*.vcxproj.user
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+*.sln
+*.vcxproj
+*.filters
+*.log
+
+
+# Python for testing algorithms
+__pycache__/
+/*.pyc
+/*.pyo
+/*.pyd
+/.ipynb_checkpoints/
+
+# Binary and Temporary Files
+*.bin
+*.out
+*.obj
+*.lib
+
+# Test Coverage and Debug Files
+*/coverage/
+*/*.profraw
+*/*.gcda
+*/*.gcno
+*/Debug/
+*/Release/
+*/dist/
+*/*.d
+
+# Generated Docs
+/doc/
+/docs/build/
+/docs/_build/
+
+# Bindings
+bindings/
+
+# Miscellaneous
+*.lock
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Cargo Clippy and Formatting
+cargo-fmt.toml
+cargo-clippy.toml
+
+# Rust Analyzer
+/.rust_analyzer/
+
+# Output folders
+*/out/
+*/bin/
+*/obj/
