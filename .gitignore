@@ -13,6 +13,7 @@ Thumbs.db
 **/*.dSYM
 
 # C++ Stuff
+*/build/
 */*.o
 */*.a
 */*.so
