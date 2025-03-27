@@ -106,6 +106,10 @@ If everything is set up correctly, the project should run.
 - Use **CMake** and **Rust build scripts** effectively to manage dependencies.
 - Keep your changes modular and easy to integrate.
 
+## Pull Request Guidelines
+- Try to choose an issue for your contribution.
+- If you don't find any issue for your bug or feature, open it yourself. 
+
 ---
 
 ## Troubleshooting
