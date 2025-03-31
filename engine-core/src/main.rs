@@ -1,4 +1,6 @@
+use engine_core::binds;
+
 fn main() {
-    let result = engine_core::run_calculation(3, 4);
+    let result = binds::run_calculation(3, 4);
     println!("Calculation result: {}", result);
 }
