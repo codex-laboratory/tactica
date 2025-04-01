@@ -1,0 +1,18 @@
+# Tactica
+
+## Tactica? what's that?
+
+Tactica is a desicion-making engine who aims to improve behavioral trees development. 
+
+#### Why would I use it?
+Well, tactica is meant to be the behavioral tree for a larger project of mine. However, long-term talking, it is expected to be a way to configure behavioral actions in a game engine we are preparing. You don't have to worry if it doesn't fit your game as it is intended to work with most(if not all) possible contexts.
+
+## How it works? 
+
+Let's dive into the good stuff: 
+
+#### How does tactica knows the best play/solution for the upcoming actions? 
+It doesn't. Is it stupid? probably yes. That's why tactica has to ask his imaginary friends what to do. 
+
+![alt text](image.png)
+
