@@ -16,3 +16,6 @@ It doesn't. Is it stupid? probably yes. That's why tactica has to ask his imagin
 
 ![alt text](image.png)
 
+But that is very ambiguous, tactica needs to react to as many situations as possible. Our goal is to cover the decision making needs for the developers in a game engine (It won't cover much on it's first versions, but we are trying to keep it scalable).
+
+For us to make a decision there are multiple factors to consider. Here, we will call those factors "context". 
