@@ -101,10 +101,17 @@ If everything is set up correctly, the project should run.
 ---
 
 ## Code Guidelines
-- Follow Rust’s **clippy** and **fmt** conventions for clean code.
-- Comments are allowed, as long as they are respectful and not explaining every single line of code (keep it simple).
+- **Code should be self-explanatory**, minimizing the need for comments. Refactor instead of commenting every line.
+
+- Comments are allowed, as long as they are respectful and not explaining every single line of code (keep it simple). Make sure **comments are more about the “why” than the “how”, or even a playful joke**.
+
 - Use **CMake** and **Rust build scripts** effectively to manage dependencies.
-- Keep your changes modular and easy to integrate.
+
+- Keep your changes modular and easy to integrate, **follow SRP**.
+
+- **Don't ignore warnings in code**. We know some people just ignore them because is not a big deal or just for the memes and that's fine as long as it does not affect your project, however, every warning has a reason to exist and that reason can be harmful for a critical software product like engines. So don't overlook them: **find the reason of it and try to solve it**, even if they don’t break your code right now, they might in the future, so yes, it is a *big deal*.
+
+-  Each commit should ideally address a single issue or feature. This makes it easier to review changes and roll back if necessary. **Make commits atomic size**.
 
 ## Pull Request Guidelines
 - Try to choose an issue for your contribution.

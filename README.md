@@ -1,5 +1,5 @@
 # Tactica
-Our turn based AI crab 🦀🔪
+Our behavioral crab 🦀🔪
 
 
-Tactica is a turn-based decision maker, the engine intends to be an overall analyzer for turn based games in order to find the most suitable play on its turn (with difficulty levels)
+Tactica is a decision-making engine, it intends to be an overall analyzer for games in order to find the most suitable play (with difficulty levels)
