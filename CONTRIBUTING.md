@@ -13,7 +13,7 @@ Make sure you have the following installed:
 
 ### Cloning the Repository
 Before making any changes, please fork the repository. 
-Clone the repository to your local machine:
+Clone the fork to your local machine:
 ```bash
 git clone https://github.com/yourusername/tactica.git
 cd tactica
