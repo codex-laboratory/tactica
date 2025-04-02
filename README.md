@@ -1,5 +1,5 @@
 # Tactica
-Our behavioral crab 🦀🔪
+Our builder crab 🦀🔪
 
 
-Tactica is a decision-making engine, it intends to be an overall analyzer for games in order to find the most suitable play (with difficulty levels)
+Tactica is a game development engine made in rust and c++
