@@ -1,4 +1,4 @@
-use engine_core::binds;
+use engine_sentinel::binds;
 
 fn main() {
     let result = binds::run_calculation(3, 4);
