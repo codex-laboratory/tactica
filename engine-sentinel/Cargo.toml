@@ -1,5 +1,5 @@
 [package]
-name = "engine-core"
+name = "engine-sentinel"
 version = "0.1.0"
 edition = "2021"
 
